@@ -6,4 +6,4 @@ Find the files on the code folder (PowerPoint for the business department and th
 
 In the Power BI repository you'll find a pbix file with the most important variables and KPIs for the business department.
 
-[R](https://github.com/rubenfm77/POWER-BI/blob/main/LOGO.jpg)
+[R](https://github.com/rubenfm77/Machine-learning-/blob/main/R.jpg)
