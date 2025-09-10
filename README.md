@@ -799,14 +799,14 @@ Estos modelos, como ya dijimos para el modelo del anterior dataset, deben ser mo
 
 Y, como ya dijimos al principio, este tipo de modelos se pueden hacer extensivos a otros campos distintos al de RRHH, como por ejemplo pueden ser la pérdida de clientes en todo tipo de empresas (bancos, aseguradores, empresas de telefonía etc). Nos permiten ser proactivos y tener más claras las decisiones y acciones que se deben tomar, identificando los perfiles con más riesgo de dejar la empresa.
 
-# 5 ELABORACION DE CUADRO DE MANDO EN PBI EN BASE A LAS CONCLUSIONES DE MACHINE LEARNING
+# 4. ELABORACION DE CUADRO DE MANDO EN PBI EN BASE A LAS CONCLUSIONES DE MACHINE LEARNING
 
 En base a las conclusiones extraídas que nos han permitido determinas las variables con un mayor peso en el desistimiento por parte de los empleados, construímos un cuadro de mando que permita a las unidades de negocio (RRHH) controlar de forma sencilla las mismas y tomar medidas correctoras, si fuese necesario:
 
 ![HR1](https://github.com/rubenfm77/POWER-BI/blob/main/HRDash_1.jpg)
 ![HR2](https://github.com/rubenfm77/POWER-BI/blob/main/HRDash_2.jpg)
 
-# 5 BIBLIOGRAFÍA Y RECURSOS
+# 5. BIBLIOGRAFÍA Y RECURSOS
 
 Para la elaboración de este TFM, se ha utilizado el material proporcionado en los módulos así como estas referencias:
 
